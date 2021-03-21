@@ -1,0 +1,26 @@
+{
+  "name": "webshot",
+  "version": "1.0.0",
+  "description": "A Node application to automate the task of taking screenshots and saving them into a local file.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "Javascript",
+    "Puppeteer"
+  ],
+  "author": "akashchouhan16",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "prompt": "^1.1.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^8.0.0"
+  }
+}
