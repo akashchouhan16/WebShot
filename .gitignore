@@ -2,7 +2,7 @@
 .env
 # Additional Files
 Output/
-preview/
+
 
 # Node Modules & Lock Files.
 node_modules
