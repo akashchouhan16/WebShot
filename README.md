@@ -3,9 +3,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![GitHub issues](https://img.shields.io/github/issues/akashchouhan16/WebShot.svg)](https://github.com/akashchouhan16/WebShot/issues)
 
-A [Nodejs](https://nodejs.org/en/docs/ "Open Nodejs docs") command line application that allows user to take automated screenshots of the web and save it locally.
+A [Nodejs](https://nodejs.org/en/docs/ "Open Node.js docs") command line application that allows user to take automated screenshots of the web and save it locally.
 
 ---
 
@@ -55,3 +54,5 @@ A [Nodejs](https://nodejs.org/en/docs/ "Open Nodejs docs") command line applicat
 ### License
 
 **[MIT](https://github.com/akashchouhan16/WebShot/blob/master/LICENSE "MIT LICENSE")**
+
+---
